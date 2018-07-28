@@ -2,7 +2,7 @@
 layout: post
 title:  "initial commit"
 date:   2018-07-01
-excerpt: "Meh."
+excerpt: "A new begining?"
 image: ""
 ---
 
