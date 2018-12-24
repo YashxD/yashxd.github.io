@@ -8,7 +8,7 @@ image: ""
 
 ## I'm Back!
 
-As opposed to my initial plan of regularly updating this so called blog, I'm more inclined towards just posting occasional updates about whatever I feel like, thanks to the resounding failure of doing it more often ¯\_(ツ)_/¯
+As opposed to my initial plan of regularly updating this so called blog, I'm more inclined towards just posting occasional updates about whatever I feel like, thanks to the resounding failure of doing it more often ¯\\_(ツ)_/¯
 
 Anyway, I had a really interesting semester. I was super excited for it to begin so that I could study core electronics. It was my perception that it was what I would be able to ace since I had keen interest in the field. The problem started when I realized that I did'nt really know what <i>core electronics</i> really meant... 
 

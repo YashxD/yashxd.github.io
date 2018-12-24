@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "initial commit"
-date:   2018-07-01
+date:   2018-08-01
 excerpt: "A new begining?"
 image: ""
 ---
